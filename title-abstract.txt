@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Computer Vision and Lane Segmentation in Autonomous Vehicles
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Perception is absolutely vital to navigation. Without perception, any corporeal entity cannot localize itself in its environment and move around obstacles. To create an autonomous vehicle (AV) capable of racing on the Thunderhill Raceway track in Berkeley, California, the team must supplement a stereo camera capable of supporting image perception and computer vision. The team was given two cameras, the Intel RealSense D455 and the ZED camera. In this analysis, the team will compare the capabilities of the two cameras and responsibly select a camera capable of supporting the object detection, and will develop a lane segmentation algorithm that will help extract lanes from the camera feed.
+
