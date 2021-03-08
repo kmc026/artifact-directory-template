@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/kmc026/artifact-directory-template",
+    "project-repository": "https://github.com/kmc026/DSC180B-Team5-Code",
+    "dockerhub-repository": "kw24032/dsc180a-methodology7:latest",
+    "project-website-url": "https://joseph-fallon.medium.com/dsc-180b-team-5-computer-vision-and-image-processing-for-autonomous-vehicles-applications-ee494d954093",
+    "project-website-code": "https://github.com/kmc026/DSC180B-Team5-Code"
 }
